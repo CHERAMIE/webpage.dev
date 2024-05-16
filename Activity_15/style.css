@@ -1,0 +1,28 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.color-title {
+  font-weight: normal;
+}
+
+#pink {
+  color: Pink;
+}
+
+#purple {
+  color: purple;
+}
+
+#black {
+  color: black;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
