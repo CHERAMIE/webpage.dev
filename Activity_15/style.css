@@ -7,22 +7,22 @@ img {
   font-weight: normal;
 }
 
-#pink {
-  color: Pink;
-}
-
-#purple {
-  color: purple;
-}
-
-#black {
+#black{
   color: black;
+}
+
+#green{
+  color: green;
 }
 
 #orange {
   color: orange;
 }
 
-#green {
-  color: green;
+#purple{
+  color: purple;
+}
+
+#pink{
+  color: pink;
 }
