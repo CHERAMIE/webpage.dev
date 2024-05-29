@@ -1,0 +1,21 @@
+body {
+  background-color: classic blue;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color:Cerulean Blue ;
+  font-family: "Cursive", serif;
+  text-align: center;
+}
+
+.https://thumbs.dreamstime.com/b/luxurious-sapphire-spiral-staircase-image-showcases-stunning-sapphire-spiral-staircase-exudes-grandeur-elegance-314319008.jpg {
+  border: 5px Green Ash;
+  width: 100%;
+}
